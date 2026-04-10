@@ -140,6 +140,7 @@ window.addEventListener("load", () => {
 
     carousel.addEventListener("mouseenter", stopCarousel);
     carousel.addEventListener("mouseleave", startCarousel);
+
 });
 
 const sections = document.querySelectorAll('.split');
